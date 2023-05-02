@@ -21,4 +21,4 @@ spec:
         name: nodejs-sample
       # imagePullSecrets:
       # - name: regcred                             
-      serviceAccount: image-push-sa 
+      # serviceAccount: image-push-sa 
